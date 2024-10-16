@@ -1,7 +1,7 @@
 
 # Digital Logic Design
 
-##### Notes by Amar Jaleel 
+###### Notes by Amar Jaleel 
 
 
 ---
